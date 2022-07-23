@@ -1,0 +1,41 @@
+body {
+	font-size: 10pt;
+	font-family: Verdana, Geneva, Arial, Helvetica;
+	color: green;
+	line-height: 14pt;
+	padding-left: 5pt;
+	padding-right: 5pt;
+	padding-top: 5pt;
+	
+}
+
+h1.silly {
+	font: 36pt Comic Sans;
+	color: black;
+	font-weight: bold;
+	line-height: 20 pt;
+	border-color: blue;
+	border-style: solid;
+	border-radius: 72pt;
+	text-align: center;
+}
+
+h1.serious {
+	font: 72pt Arial;
+	color: black;
+	font-weight: bold;
+	line-height: 20 pt;
+	border-color: blue;
+	border-style: solid;
+	border-radius: 72pt;
+	text-align: center;
+}
+
+footer {
+	color: blue;
+	font: 36pt Comic Sans;
+	text-align: right;
+}
+
+p { font: 36pt Courier;}
+
